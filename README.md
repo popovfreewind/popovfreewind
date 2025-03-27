@@ -1,4 +1,4 @@
-# Dmytro Popov | Roku Apps Development | Roku Games Development | Software Development
+# Dmytro Popov | Roku Apps Development | Roku Games Development | HTML5 Games Development | Software Development
 ## 👷 Speciality: 
 <code> Software Developer | Frontend</code><br>
 ## 🧑‍💻 Languages:
